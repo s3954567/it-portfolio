@@ -102,7 +102,7 @@ Developed a website as part of university coursework, focusing on front-end deve
 The project involved creating page layouts, styling content and implementing interactive functionality using JavaScript.
 
 - [GitHub Repository](https://github.com/s3954567/wp)
-- [Live Website](https://titan.csit.rmit.edu.au/~s3954567/wp/)
+- [Live Website](https://s3954567.github.io/wp/)
 
 ## Education
 
