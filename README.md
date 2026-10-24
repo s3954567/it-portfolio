@@ -1,66 +1,131 @@
 
-# IT Graduate Portfolio
+# Jairo Urra
 
-Hi, I'm an Information Technology graduate from RMIT University, based in Melbourne, Australia.
+**Information Technology Graduate | Melbourne, Australia**
 
-I'm interested in software development, cloud computing, IT infrastructure and software testing.
+Bachelor of Information Technology, RMIT University (2026)
 
-## Education
+I recently completed my Bachelor of Information Technology at RMIT University, where I gained practical experience in software development, cloud computing, infrastructure automation and software testing.
 
-- Bachelor of Information Technology — RMIT University (2026)
-- Associate Degree in Information Technology — RMIT University (2024)
-- Diploma of Information Technology (Cloud Engineering) — RMIT University (2023)
-- Certificate IV in Computer Systems Technology — Kangan Institute (2022)
+My university and industry projects have involved building web applications, configuring AWS infrastructure, working with CI/CD pipelines and developing React-based interfaces.
+
+I'm currently looking for graduate and entry-level IT opportunities where I can apply my technical knowledge, develop my skills and gain industry experience.
 
 ## Technical Skills
 
-**Programming and Web Development:** JavaScript, React, HTML, CSS, Node.js, Python
-
-**Cloud Computing:** AWS EC2, S3, Lambda, VPC, RDS, IAM
-
-**Testing and Tools:** Git, GitHub, Jest, Playwright, CI/CD, Jira
+| Area | Technologies |
+|------|-------------|
+| Programming | JavaScript, Python, Java, HTML, CSS |
+| Web Development | React, Node.js, Express, REST APIs |
+| Cloud Computing | AWS (EC2, S3, VPC, Lambda, RDS, IAM) |
+| DevOps | Docker, Terraform, Ansible, GitHub Actions, CI/CD |
+| Databases | MongoDB, PostgreSQL, SQL, DynamoDB |
+| Testing | Jest, Playwright, JUnit, JMeter |
+| Tools | Git, GitHub, Linux, Jira |
 
 ## Projects
 
-### 1. AI-Powered Search Interface
-RMIT industry project with Search Sensei.
+### AWS Infrastructure Automation and Deployment
+**RMIT University — COSC2759**
 
-- Developed React-based search results interfaces.
-- Worked on AI-assisted answer displays and search filters.
-- Designed traditional and AI-powered search layouts.
+*AWS, Terraform, Ansible, Docker, PostgreSQL, GitHub Actions*
 
-**Technologies:** React, JavaScript, HTML, CSS
+University project focused on automating cloud infrastructure provisioning and application deployment.
 
-### 2. AWS Cloud Infrastructure
-AWS Academy practical coursework.
+The project involved:
+- Provisioning AWS EC2 infrastructure using Terraform.
+- Automating server configuration and deployment tasks with Ansible.
+- Configuring containerised application services using Docker.
+- Working with frontend, backend and PostgreSQL database components.
+- Using GitHub Actions for deployment workflows.
 
-- Configured AWS networking and EC2 instances.
-- Worked with S3, Lambda, RDS and IAM.
-- Practised cloud deployment, security and monitoring.
+This project provided practical experience with infrastructure as code, cloud deployment and DevOps tools.
 
-**Technologies:** AWS, EC2, S3, VPC, Lambda, RDS
+*Repository: Private university coursework.*
 
-### 3. CI/CD Pipeline Development
-University software development assignment.
+### AI-Powered Search Interface
+**RMIT University — Industry Project with Search Sensei (2026)**
 
-- Worked with Node.js and MongoDB.
-- Used automated testing tools including Jest and Playwright.
-- Applied continuous integration practices.
+*React, JavaScript, HTML, CSS*
 
-**Technologies:** Node.js, MongoDB, Git, Jest, Playwright
+Worked as part of a university industry project to develop a React-based search interface incorporating traditional and AI-assisted search functionality.
 
-### 4. Pets Victoria Website
-Web development university project.
+My work focused on:
+- Developing search results page components.
+- Creating interfaces for AI-generated answers.
+- Implementing filtering and search result layouts.
+- Working on interactive search elements and responsive styling.
+- Collaborating with team members on interface development.
 
-- Built web pages using HTML, CSS and JavaScript.
-- Worked on layouts, styling and interactive functionality.
+The project provided practical experience in React development, user interface design and collaborative software development.
 
-**Technologies:** HTML, CSS, JavaScript
+### CI/CD Pipeline and Automated Testing
+**RMIT University — COSC2759**
 
-[View the code](https://github.com/s3954567/wp)
+*Node.js, Express, MongoDB, Jest, Playwright, GitHub Actions*
 
-[View the website](https://titan.csit.rmit.edu.au/~s3954567/wp/)
+University project involving automated testing and continuous integration for a web-based notes application.
+
+The project involved:
+- Working with a Node.js and Express application.
+- Configuring automated tests using Jest and Playwright.
+- Using ESLint for code quality checks.
+- Setting up GitHub Actions workflows.
+- Working with MongoDB database integration.
+
+This project strengthened my understanding of software testing, continuous integration and development workflows.
+
+*Repository: Private university coursework.*
+
+### AWS Cloud Infrastructure
+**RMIT University — AWS Academy (2025)**
+
+*AWS EC2, VPC, S3, Lambda, RDS, IAM, CloudWatch*
+
+Completed practical cloud computing coursework involving AWS infrastructure and services.
+
+Key activities included:
+- Creating and configuring virtual private clouds and network components.
+- Deploying and managing EC2 instances.
+- Working with S3 storage and Lambda functions.
+- Configuring IAM permissions and security settings.
+- Working with relational and NoSQL database services.
+- Monitoring and managing cloud resources.
+
+### Pets Victoria Website
+**RMIT University — Web Development Project**
+
+*HTML, CSS, JavaScript*
+
+Developed a website as part of university coursework, focusing on front-end development and web design.
+
+The project involved creating page layouts, styling content and implementing interactive functionality using JavaScript.
+
+- [GitHub Repository](https://github.com/s3954567/wp)
+- [Live Website](https://titan.csit.rmit.edu.au/~s3954567/wp/)
+
+## Education
+
+**RMIT University**  
+Bachelor of Information Technology — 2026
+
+**RMIT University**  
+Associate Degree in Information Technology — 2024
+
+**RMIT University**  
+Diploma of Information Technology (Cloud Engineering) — 2023
+
+**Kangan Institute**  
+Certificate IV in Computer Systems Technology — 2022
 
 ## Career Interests
 
-I'm seeking graduate and entry-level IT opportunities in Melbourne, particularly in software development, cloud computing and IT support.
+I'm interested in graduate and junior positions across software development, cloud engineering, DevOps, IT support and software testing.
+
+I'm based in Melbourne, Victoria.
+
+## Contact
+
+- GitHub: [github.com/s3954567](https://github.com/s3954567)
+- LinkedIn: https://www.linkedin.com/in/jairo-urra-aguilera-487400244/
+
